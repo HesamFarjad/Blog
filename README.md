@@ -13,12 +13,14 @@ View existing blog posts with detailed information about each post, including ti
 Create new blog posts by providing a title, content, and author details.
 Edit existing blog posts to update their content or author information.
 Delete blog posts that are no longer needed.
+
 🚀 Key Features:
 
 Easy-to-Use Interface: Our website features a clean and intuitive interface, making it effortless to navigate and interact with blog posts.
 Dynamic Rendering: Blog posts are dynamically rendered from a backend server, ensuring fast and efficient content delivery.
 CRUD Operations: Users can perform Create, Read, Update, and Delete operations on blog posts, providing full control over their content.
 Responsive Design: The website is designed to be responsive, ensuring optimal viewing and functionality across various devices and screen sizes.
+
 💻 Technologies Used:
 
 Backend: Node.js, Express.js
@@ -26,6 +28,7 @@ Frontend Templating: Embedded JavaScript (EJS)
 Data Storage: In-memory data store (for demonstration purposes)
 HTTP Client: Axios (for API communication)
 CSS Styling: Custom styling (main.css)
+
 📝 How to Get Started:
 
 Clone the repository to your local machine.
